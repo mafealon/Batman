@@ -9,7 +9,7 @@
 ## Tareas a llevar a cabo por Alfred:
 ***
 - [X] *Limpiar el ~~Coche de Batman~~ Batmovil*
-- []  *Cocinar Langosta Termidor*
-- []  *Aprender a bailar [el batusi](https://youtu.be/wnoBD1OPUX4)*
+- [ ]  *Cocinar Langosta Termidor*
+- [ ]  *Aprender a bailar [el batusi](https://youtu.be/wnoBD1OPUX4)*
 
 
